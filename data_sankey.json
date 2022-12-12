@@ -295,11 +295,7 @@
          "target":17,
          "value":1
       },
-      {
-         "source":16,
-         "target":23,
-         "value":1
-      },
+      
       {
          "source":17,
          "target":2,
@@ -355,11 +351,7 @@
          "target":17,
          "value":1
       },
-      {
-         "source":18,
-         "target":23,
-         "value":1
-      },
+     
       {
          "source":19,
          "target":9,
@@ -408,16 +400,6 @@
       {
          "source":21,
          "target":19,
-         "value":1
-      },
-      {
-         "source":23,
-         "target":16,
-         "value":1
-      },
-      {
-         "source":23,
-         "target":18,
          "value":1
       }
    ],
@@ -509,10 +491,6 @@
       {
          "node":22,
          "name":"Alpha_Chessor"
-      },
-      {
-         "node":23,
-         "name":"Alex_Hall"
       }
    ]
 }
