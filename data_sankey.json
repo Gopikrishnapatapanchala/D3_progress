@@ -224,9 +224,6 @@
          "target":"Sara_Ballard",
          "value":1
       },
-
-<---- need to add from here -->
-
       {
          "source":"Lindsy_Henion",
          "target":"Rosalia_Larroque",
@@ -510,7 +507,7 @@
          "name":"Glen_Grant"
       },
       {
-         "node":19",
+         "node":19,
          "name":"Dylan_Ballard"
       },
       {
